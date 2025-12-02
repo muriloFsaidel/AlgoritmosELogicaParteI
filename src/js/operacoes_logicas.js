@@ -32,11 +32,11 @@ if(media >= 50){//depende da outra
    if (passou || media >= 70)
       alert("Aprovado! "+ nome);
    else
-     alert("Rerovado! "+ nome);
+     alert("Reprovado! "+ nome);
 
 */
 //disjunção exclusiva ( && || )
    if ( ( passou ) && ( media >= 50 || media <= 70) )
       alert("Aprovado! "+ nome);
    else
-     alert("Rerovado! "+ nome);
+     alert("Reprovado! "+ nome);
