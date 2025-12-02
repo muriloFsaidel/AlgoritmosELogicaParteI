@@ -42,7 +42,7 @@ Inicio
    //inversão ou negação da proposição (não)
    // conjunção (e), ambas sejam verdadeiras
    //se ( nao ( passou ) ) e (media = 0) entao
-     // escreval("Rerovado! ", nome)
+     // escreval("Reprovado! ", nome)
    //senao
      // escreval("Aprovado! ", nome)
    //fimse
@@ -51,13 +51,13 @@ Inicio
    //se passou ou media >= 70 entao
       //escreval("Aprovado! ", nome)
    //senao
-     //escreval("Rerovado! ", nome)
+     //escreval("Reprovado! ", nome)
    //fimse
 
    //disjunção exclusiva ( && || )
    se ( passou ) e ( media >= 50 ou media <= 70) entao
       escreval("Aprovado! ", nome)
    senao
-     escreval("Rerovado! ", nome)
+     escreval("Reprovado! ", nome)
    fimse
 Fimalgoritmo
