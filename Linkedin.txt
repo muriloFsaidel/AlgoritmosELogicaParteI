@@ -1,0 +1,1 @@
+Olá bom dia a todos, gostaria de compartilhar que após a conclusão do curso Algoritmos e lógica parte 1 do professor Cleison na Udemy, eu criei esta página interativa no github: xxx , o repositório: xxx e gravei dois vídeos para o youtube explicando todo o conteúdo do projeto: xxxx. Obrigado a todos por visualizarem.

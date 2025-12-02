@@ -14,46 +14,46 @@
 ## Screenshots da aplicação
 
 ### HomePage
-![Login](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/homepage.png)
+![HomePage](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/homepage.png)
 
 ### meuPrimeiro
-![Senha Errada](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/primeiroalgoritmo.png)
+![meuPrimeiro](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/primeiroalgoritmo.png)
 
 ### Input e Output
-![Meu Perfil](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/Inputoutput.png)
+![Input e Output](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/Inputoutput.png)
 
 ### Estruturas de Controle
-![Meu Perfil Dropdown](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estrtuturadecontrole.png)
+![Estruturas de Controle](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estrtuturadecontrole.png)
 
 ### Operadores Lógicos
-![Barra de Pesquisa](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/operadoreslogicos.png)
+![Operadores Lógicos](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/operadoreslogicos.png)
 
 ### Operadores Aritméticos
-![Menu encolhido](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/operadoresaritmeticos.png)
+![Operadores Aritméticos](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/operadoresaritmeticos.png)
 
 ### Operadores Relacionais
-![Personagens](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/operadoresrelacionais.png)
+![Operadores Relacionais](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/operadoresrelacionais.png)
 
 ### Concatenação
-![Detalhe Personagem](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/concatenacao.png)
+![Concatenação](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/concatenacao.png)
 
 ### Estrutura Condicional (Se e Senão)
-![Localizações](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturacondicionalsesenao.png)
+![Estrutura Condicional (Se e Senão)](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturacondicionalsesenao.png)
 
 ### Estrutura Condicional (Escolha)
-![Detalhe Localização](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturacondicionalescolha.png)
+![Estrutura Condicional (Escolha)](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturacondicionalescolha.png)
 
 ### Estrutura de Repetição (Para Faca)
-![Episodios](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturarepeticaoparafaca.png)
+![Estrutura de Repetição (Para Faca)](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturarepeticaoparafaca.png)
 
 ### Estrutura de Repetição (Enquanto Faca)
-![Detalhe Episódio](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturarepeticaoenquantofaca.png)
+![Estrutura de Repetição (Enquanto Faca)](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturarepeticaoenquantofaca.png)
 
 ### Estrutura de Repetição (Repita Até)
-![Detalhe Episódio](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturarepeticaorepitaatepng.png)
+![Estrutura de Repetição (Repita Até)](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/estruturarepeticaorepitaatepng.png)
 
 ### Git & GitHub
-![Detalhe Episódio](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/gitgithub.png)
+![Git & GitHub](https://raw.githubusercontent.com/muriloFsaidel/assets/main/AELPI/gitgithub.png)
 
 # Tecnologias utilizadas
 
@@ -67,7 +67,7 @@
   - [link](https://murilofsaidel.github.io/AlgoritmosELogicaParteI/)<br>
   
 # Solução Desafios Hackerrank
-	- [	Solução aprendida e explicada no vídeo]()<br>  
+	- [Solução aprendida e explicada no vídeo]()<br>  
   
 # Autor
 
