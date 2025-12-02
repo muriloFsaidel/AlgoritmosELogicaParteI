@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Algoritmos e Lógica I</title>
+                <link rel="stylesheet" href="./src/css/reset.css">
+                <link rel="stylesheet" href="./src/css/global.css">
+</head>
+
+<body>
+                <div class="container">
+                                <h1>Exercícios práticos</h1>
+                                <h2> Princípios Utilizados</h2>
+
+                                <h2 class="esquerda">Algoritmos</h2>
+                                <p> Todos os exercícios partem da lógica e dos Algoritmos criados, que em resumo
+                                                contemplar os passos lógicos que usamos para resolver um problema ou
+                                                executar uma tarefa.</p>
+                                <h2 class="esquerda">Inferências</h2>
+                                <p>Todos os fluxos de algoritmo, são definidos pelas inferências que adotamos, por
+                                                exemplo, o aluno passou de ano? informado as premissas que ele teve nota
+                                                x e y e uma resultaram em uma média z > p, conclui-se que o aluno passou
+                                                de ano.</p>
+                                <p>Com base nisto, os algoritmos são construídos linha a linha, pensando em uma
+                                                estrutura de sequência de ocorrências ou ações que tomada uma decisão
+                                                apresenta um determinado resultado ou outro, podendo se repetir ou não.
+                                </p>
+                                <h2 class="esquerda">Implementação</h2>
+
+                                <p>Os exercícios foram desenvolvidos usando pseudocódigo e transportados para o
+                                                Javascript, para sair de um conceito para uma linguagem de programação,
+                                                simulando um ambiente.</p>
+                                <h2 class="esquerda">Javascript?</h2>
+                                <p>O javascript é a linguagem web que permite executar os programas do lado navegador,
+                                                trazendo conteúdos dinâmicos (escolha de exercícios diferente), sem
+                                                precisar instalar compiladores ou interpretadores específicos, por isso
+                                                foi selecionado.</p>
+
+                                <select name="exercicios" id="exercicios" onchange="escolha(this.value)">
+                                                <option value="" selected>Escolha uma opção</option>
+                                                <option value="PA">Primeiro Algoritmo</option>
+                                                <option value="ES">Input e Output</option>
+                                                <option value="EC">Estruturas de Controle</option>
+                                                <option value="OL">Operadores Lógicos</option>
+                                                <option value="OA">Operadores Aritméticos</option>
+                                                <option value="OR">Operadores Relacionais</option>
+                                                <option value="C">Concatenação</option>
+                                                <option value="ECSS">Estrutura Condicional (Se e Senão)</option>
+                                                <option value="ECE">Estrutura Condicional (Escolha)</option>
+                                                <option value="PF">Estrutura de Repetição (Para Faca)</option>
+                                                <option value="EF">Estrutura de Repetição (Enquanto Faca)</option>
+                                                <option value="RA">Estrutura de Repetição (Repita Até)</option>
+                                                <option value="G">Git & GitHub</option>
+                                </select>
+                                <button id="btn-executar" onclick="executar()">Executar</button>
+                                <div class="dinamico">
+                                                <div class="portugol">
+                                                                <h2 id="TPortugol"></h2>
+                                                                <img id="iPortugol" alt="portugol">
+                                                                <p id="PPortugol"></p>
+                                                </div>
+                                                <p id="paragrafo" style="margin-top: 60px;">Resultado</p>
+                                                <div class="javascript">
+                                                                <h2 id="TJS"></h2>
+                                                                <img id="iJavascript" alt="javascript">
+                                                                <p id="PJS"></p>
+                                                </div>
+                                </div>
+                </div>
+
+</body>
+<script src="./src/js/global.js"></script>
+</html>
