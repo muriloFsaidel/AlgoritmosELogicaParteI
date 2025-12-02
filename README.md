@@ -67,7 +67,10 @@
   - [link](https://murilofsaidel.github.io/AlgoritmosELogicaParteI/)<br>
   
 # Solução Desafios Hackerrank
-	- [Solução aprendida e explicada no vídeo]()<br>  
+	- [Solução aprendida e explicada no vídeo](https://www.youtube.com/watch?v=2HIKw9reqMg)<br>
+
+# Explicação Geral	
+   - [Solução aprendida e explicada no vídeo](https://www.youtube.com/watch?v=WQ5qixALAhg)<br>
   
 # Autor
 
