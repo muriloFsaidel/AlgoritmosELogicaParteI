@@ -64,7 +64,7 @@
    
 ### Acesso pelo github pages
   
-  - [link]()<br>
+  - [link](https://murilofsaidel.github.io/AlgoritmosELogicaParteI/)<br>
   
   
 # Autor
