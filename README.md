@@ -66,6 +66,8 @@
   
   - [link](https://murilofsaidel.github.io/AlgoritmosELogicaParteI/)<br>
   
+# Solução Desafios Hackerrank
+	- [	Solução aprendida e explicada no vídeo]()<br>  
   
 # Autor
 
